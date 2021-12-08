@@ -2,6 +2,7 @@
 
 ## 3.x.x
 
+* Purge of the letter 'w'.
 * Support for Node.js 10 is dropped.
 * Support for CommonJS is dropped.
 
