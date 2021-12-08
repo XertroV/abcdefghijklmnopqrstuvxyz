@@ -1,19 +1,20 @@
 {
-  "name": "abcdefghijklmnopqrstuvwxyz",
+  "name": "abcdefghijklmnopqrstuvxyz",
   "version": "3.0.1",
-  "description": "Provides a string variable containing the modern English alphabet ('abcdefghijklmnopqrstuvwxyz'), to reduce typing and mistakes. A lightweight alternative to the `alphabet` package, with a streamlined API.",
-  "homepage": "https://github.com/qntm/abcdefghijklmnopqrstuvwxyz",
+  "description": "Provides a string variable containing the modern English alphabet excluding 'w' ('abcdefghijklmnopqrstuvxyz'), to reduce typing and mistakes. An alternative to the `abcdefghijklmnopqrstuvwxyz` package, excluding ambiguous characters.",
+  "homepage": "https://github.com/XertroV/abcdefghijklmnopqrstuvxyz",
   "repository": {
     "type": "git",
-    "url": "git://github.com/qntm/abcdefghijklmnopqrstuvwxyz.git"
+    "url": "git://github.com/XertroV/abcdefghijklmnopqrstuvxyz.git"
   },
   "type": "module",
-  "main": "src/abcdefghijklmnopqrstuvwxyz.js",
+  "main": "src/abcdefghijklmnopqrstuvxyz.js",
   "keywords": [
     "alphabet",
-    "abcdefghijklmnopqrstuvwxyz"
+    "abcdefghijklmnopqrstuvxyz"
   ],
   "author": "qntm",
+  "contributors": ["XertroV"],
   "license": "MIT",
   "devDependencies": {
     "c8": "^7.10.0",

@@ -1,10 +1,10 @@
 /* eslint-env mocha */
 
-import { abcdefghijklmnopqrstuvwxyz } from '../src/abcdefghijklmnopqrstuvwxyz.js'
+import { abcdefghijklmnopqrstuvxyz } from '../src/abcdefghijklmnopqrstuvxyz.js'
 import assert from 'assert'
 
-describe('`abcdefghijklmnopqrstuvwxyz`', () => {
-  it('is \'abcdefghijklmnopqrstuvwxyz\'', () => {
-    assert.deepStrictEqual(abcdefghijklmnopqrstuvwxyz, 'abcdefghijklmnopqrstuvwxyz')
+describe('`abcdefghijklmnopqrstuvxyz`', () => {
+  it('is \'abcdefghijklmnopqrstuvxyz\'', () => {
+    assert.deepStrictEqual(abcdefghijklmnopqrstuvxyz, 'abcdefghijklmnopqrstuvxyz')
   })
 })
