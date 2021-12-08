@@ -1,6 +1,6 @@
 {
   "name": "abcdefghijklmnopqrstuvxyz",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "Provides a string variable containing the modern English alphabet excluding 'w' ('abcdefghijklmnopqrstuvxyz'), to reduce typing and mistakes. An alternative to the `abcdefghijklmnopqrstuvwxyz` package, excluding ambiguous characters.",
   "homepage": "https://github.com/XertroV/abcdefghijklmnopqrstuvxyz",
   "repository": {
