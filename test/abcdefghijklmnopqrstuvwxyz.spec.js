@@ -7,4 +7,7 @@ describe('`abcdefghijklmnopqrstuvxyz`', () => {
   it('is \'abcdefghijklmnopqrstuvxyz\'', () => {
     assert.deepStrictEqual(abcdefghijklmnopqrstuvxyz, 'abcdefghijklmnopqrstuvxyz')
   })
+  it('has a length of 25 characters', () => {
+    assert.deepStrictEqual(abcdefghijklmnopqrstuvxyz.length, 25)
+  })
 })
